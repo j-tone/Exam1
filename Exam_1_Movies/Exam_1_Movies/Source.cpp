@@ -1,3 +1,5 @@
+//I affirm that all code given code below was written soley by me, Justin Toney, and that any help I received adhered to the rules of the exam
+
 #include <iostream>
 #include <string>
 #include "Movie.h"
